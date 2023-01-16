@@ -16,3 +16,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokittikun&theme=highcontrast)](https://github.com/prokittikun/prokittikun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prokittikun&theme=highcontrast)](https://github.com/prokittikun/prokittikun)
+
+### WakaTime
+
+[![wakatime](https://wakatime.com/badge/user/c8d96fb5-8891-4032-89a1-0ab5747b03ce.svg)](https://wakatime.com/@c8d96fb5-8891-4032-89a1-0ab5747b03ce)
+
+
+## Github Stats
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prokittikun&line_height=21&theme=dracula" alt="prokittikun" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prokittikun&" alt="prokittikun" />
