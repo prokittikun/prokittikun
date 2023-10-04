@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prokittikun
-- 👀 I’m interested in Web Developer
+- 💼 I'm currently studying computer science at Kasetsart University
 - 📫 How to reach me pro.kittikun.2546@gmail.com
 
 ![typeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
