@@ -15,7 +15,7 @@
 ## 🛠️ My Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,c,dart,tailwindcss,react,next,angular,flutter,nestjs,go,php,postgresql,mysql,mongodb,firebase,redis,rabbitmq,docker,kubernetes,aws,git,github,vscode,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,c,dart,tailwindcss,react,next,angular,flutter,nodejs,nestjs,go,php,postgresql,mysql,mongodb,firebase,redis,rabbitmq,docker,kubernetes,aws,cloudflare,git,github,vscode,figma&theme=light" />
 
 </p>
 
