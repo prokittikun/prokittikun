@@ -5,7 +5,7 @@
 ---
 
 ### 🎯 About Me
-- 🎓 Computer Science student at **Kasetsart University** 🎓  
+- 🎓 Bachelor’s degree in Computer Science, **Kasetsart University** 🎓  
 - 💻 Passionate about **Software Engineer**, **Backend Development**, **Web Technologies** and **DevOps**  
 - 📬 Reach me at **[pro.kittikun.2546@gmail.com](mailto:pro.kittikun.2546@gmail.com)**  
 - 🌱 Always learning, always building 🚀  
